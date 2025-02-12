@@ -30,6 +30,7 @@ class GradesTableSeeder extends Seeder
             ['name' => 'D', 'mark_from' => 45, 'mark_to' => 49, 'remark' => 'Pass'],
             ['name' => 'E', 'mark_from' => 40, 'mark_to' => 44, 'remark' => 'Poor'],
             ['name' => 'F', 'mark_from' => 0, 'mark_to' => 39, 'remark' => 'Fail'],
+            ['name' => 'x', 'mark_from' => 0, 'mark_to' => 0, 'remark' => 'Absent'],
 
 
         ];
