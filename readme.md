@@ -1,5 +1,5 @@
 ## **Laravel School Management System** 
-
+this my new updite
 **LAVSMS** is developed for educational institutions like schools and colleges built on Laravel 8
 
 **SCREENSHOTS** 
